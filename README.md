@@ -7,7 +7,8 @@ To run the program go to the directory in which the files are present and enter 
 The usernames and passwords are as follows:
 1. The student Usernames are of the form "MT2020XXX" where XXX start from 001 to 020
    The passwords for the student are exactly the same as the username
-2. The faculty usernames depends on the subject that they teach for example the username of the machine learning faculty is Mlearning. Compiler Design is Cdesign
+2. The faculty usernames depends on the subject that they teach 
+they are as follows: Mlearning(Machine Learning),CompilerDsgn(Compiler Design),Crypto(Cryptography),Signal(Signal Processing),Networks(Computer Networks),QuantumComp(Quantum Computing)
    The password is the same
 3. The password for coordinator is admin
 Keep in mind that only the coordinator can edit the grades the others can just view the grades.
