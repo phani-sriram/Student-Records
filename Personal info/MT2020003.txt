@@ -1,0 +1,8 @@
+Personal info
+Name                   Bharat
+Roll No.               MT2020003
+Gender                 Male 
+Date Of Birth          7/5/1995 
+Blood Group            B+ve
+Medical complications  None
+

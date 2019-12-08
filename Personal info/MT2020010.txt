@@ -1,0 +1,7 @@
+Personal info
+Name                   Javed
+Roll No.               MT2020010
+Gender                 Male
+Date Of Birth          3/1/1994
+Blood Group            B+ve
+Medical complications  None

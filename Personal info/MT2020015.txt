@@ -1,0 +1,7 @@
+Personal info
+Name                   Reema
+Roll No.               MT2020015
+Gender                 Female
+Date Of Birth          19/10/1996
+Blood Group            A-ve
+Medical complications  None

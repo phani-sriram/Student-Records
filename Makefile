@@ -1,0 +1,2 @@
+all: #target
+	gcc admin.c display.c index.c main.c menu.c st_login.c stloginpage.c facultylogin.c student_options.c mlscr.c cdscr.c cscr.c cnscr.c spscr.c qcscr.c office.c faculty.c add_grades.c dis_grades.c modify_grades.c subjectwise.c coordinator.c -o run

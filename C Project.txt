@@ -1,0 +1,56 @@
+General information :
+
+our program is made to store student records, 
+There are four types of users:
+1.Office - They can search for the roll.no. and find information about the student
+2.Coordinator - he/she can view grades , modify grades , add grades of a student
+3.Faculty - He/She can view grades of their particular subject, get average grade, can view students based on their grades
+4.Student - displaying grades, seperating term courses and personal information
+
+There is a login page,
+Instruction to use the program
+There are 20 students, their roll.no. are from MT2020001 to MT2020020
+To login as Student, Type the roll.no. both in user and password
+To login as Faculty, Type subject name (which is their password out of Mlearning,CompilerDsgn,Crypto,Signal,Networks,QuantumComp)
+To login as coordinator, Password is admin
+To login as Office, password is Office
+
+This project is done by 
+Abhinav H. Kamath - IMT2019001
+Vikram Madhavan - IMT2019093
+Prem Sai - IMT2019067
+J.Prashanth - IMT2019507
+Phani Sriram - IMT2019514
+Rohan Thakkar - IMT2019071
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

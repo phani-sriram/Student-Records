@@ -1,0 +1,8 @@
+Personal info
+Name                   Gita
+Roll No.               MT2020006
+Gender                 Female
+Date Of Birth          29/2/1996
+Blood Group            A+ve
+Medical complications  None
+

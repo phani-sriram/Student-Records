@@ -1,0 +1,7 @@
+Personal info
+Name                   Indira
+Roll No.               MT2020010
+Gender                 Female
+Date Of Birth          5/5/1995
+Blood Group            A-ve
+Medical complications  None

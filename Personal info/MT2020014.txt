@@ -1,0 +1,7 @@
+Personal info
+Name                   Pankaj
+Roll No.               MT2020014
+Gender                 Male
+Date Of Birth          22/8/1995
+Blood Group            A+ve
+Medical complications  Colorblind

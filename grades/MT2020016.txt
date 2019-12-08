@@ -1,0 +1,9 @@
+_______Term 1__________
+Machine Learning      C
+Quantum Computation   C
+Signal Processing     A
+                       
+_______Term 2__________
+Compiler Design       B
+Computer Networks     B
+Cryptography          C

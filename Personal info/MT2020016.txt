@@ -1,0 +1,7 @@
+Personal info
+Name                   Shehzad
+Roll No.               MT2020016
+Gender                 Male
+Date Of Birth          11/6/1996
+Blood Group            B+ve
+Medical complications  None

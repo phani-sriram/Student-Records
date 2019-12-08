@@ -1,0 +1,8 @@
+Personal info
+Name                   Dheeraj
+Roll No.               MT2020005
+Gender                 Male
+Date Of Birth          2/1/1997
+Blood Group            AB+ve
+Medical complications  None
+

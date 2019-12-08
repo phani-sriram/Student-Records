@@ -1,0 +1,8 @@
+Personal info
+Name                   Deepa
+Roll No.               MT2020004
+Gender                 Female
+Date Of Birth          7/12/1996 
+Blood Group            B+ve
+Medical complications  Asthma
+

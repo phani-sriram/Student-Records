@@ -1,0 +1,14 @@
+_______Term 1__________
+Machine Learning      A
+Quantum Computation   A
+Signal Processing     C
+                       
+_______Term 2__________
+Compiler Design       A
+Computer Networks     C
+Cryptography          A
+                       
+_______Term 3__________
+Blockchain            A
+VLSI                  A
+IOT                   A

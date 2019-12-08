@@ -1,0 +1,8 @@
+Personal info
+Name                   Ananya
+Roll No.               MT2020002
+Gender                 Female
+Date Of Birth          21/6/1994
+Blood Group            A+ve
+Medical complications  Dust Allergy
+
